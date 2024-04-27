@@ -32,7 +32,7 @@ function removValue(){
   return (
     
     <>
-    <h1>gaurav and code</h1>
+    <h1>Count Number</h1>
     <h2>counter value :{counter}</h2>
     <button onClick={addValue}>Add value</button>
     <br />
